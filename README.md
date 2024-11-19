@@ -21,6 +21,11 @@
 </tr>
 </table>
 
+<h2>Postman</h2>
+
+![Screenshot](https://github.com/pbelem/SpringBootProject/blob/main/assets/Screenshot%20%28160%29.png?raw=true)
+
+
 <h2>Learned concepts</h2>
   <ul>
     <li>Web systems and resources</li>
